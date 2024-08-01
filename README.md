@@ -8,9 +8,10 @@ ___
 
 ### About me
 * 🌍  Based in Russia
+* 📚  Graduated with a Python programming courses
 * 👨‍💼  Currently working in Lugansk Home Networks
 * 🔭  Also working as a freelancer on kwork.ru
-* 🧠  Actually learning FastAPI, pydantic
+* 🧠  Studying in university named after Vladimir Dahl
 
 ___
 
@@ -23,9 +24,7 @@ ___
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-
-  
+  <img width="12" />  
 </div>
 
 ___
