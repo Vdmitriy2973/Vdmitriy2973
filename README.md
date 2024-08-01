@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Dmitriy
-#### I am software developer
+# Hi there 👋, my name is Dmitriy
+## I am software developer
 ![I am software developer](/src/readme_bg.gif)
 
 <!--
