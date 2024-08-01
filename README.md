@@ -1,16 +1,19 @@
 ### Hi there 👋,I'm Dmitriy
 #### I am software developer. I've been learning to code for 3 years.
+
 ___
+
 ![](/src/readme_bg.gif)
 
-
+### About me
 * 🌍  Based in Russia
 * 👨‍💼  Currently working in Lugansk Home Networks
 * 🔭  Also working as a freelancer on kwork.ru
 * 🧠  Actually learning FastAPI, pydantic
 
+___
 
-## My Skill Set  
+### My Skill Set  
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -34,7 +37,7 @@ ___
     </td>
   </tr>
 </table>
-
+___
 
 ### 📊 GitHub Stats
 
