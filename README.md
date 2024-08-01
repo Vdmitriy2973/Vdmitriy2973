@@ -2,18 +2,21 @@
 #### I am software developer
 ___
 ![](/src/readme_bg.gif)
-####Currently working as a Python developer in Lugansk Home Networks
+### I've been learning to code for 3 years. Currently working in Lugansk Home Networks
+* 🌍  I'm based in Russia
+* 🔭  Also working as freelancer on kwork.ru
+
 
 ### Socials
 <a href="https://www.linkedin.com/in/dmitriy-vinokurov-249182203"><img src = "/src/linkedin_logo.gif" width = "70"></a>
 <a href="https://x.com/dmitriy2973"><img src = "/src/twitter_logo.gif" width = "70"></a>
-<!-- ![https://www.linkedin.com/in/dmitriy-vinokurov-249182203/]( = 100x100)
-![https://x.com/dmitriy2973]( = 100x100)
- -->
 
 
+### 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vdmitriy2973&show_icons=true) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vdmitriy2973)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
