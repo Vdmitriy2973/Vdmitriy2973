@@ -1,9 +1,6 @@
-<div align="center" id="Title"> 
-  <h1>Hi there, I'm Dmitriy</h1>
-  <h3>Backend software developer</h3> 
-  <a href="https://www.linkedin.com/in/dmitriy-vinokurov-249182203/"><img style="width: 50px; height: 50px" src="/src/linkedin_logo.gif"></a>
-  <a href="https://x.com/dmitriy2973"><img style="width: 50px; height: 50px" src="/src/twitter_logo.gif"></a>
-</div>
+### Hi there 👋, my name is Dmitriy
+#### I am software developer
+![I am software developer](/src/readme_bg.gif)
 
 <!--
 **Vdmitriy2973/Vdmitriy2973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
