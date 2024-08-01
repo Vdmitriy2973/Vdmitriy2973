@@ -1,9 +1,8 @@
+<div class="background" align="center"><img src="/src/readme_bg.gif"></div>
 <div align="center">
 <h3> Hi there 👋,I'm Dmitriy</h3>
 <h4> I am software developer. I've been learning to code for 3 years.</h4>
 </div>
-<div class="background" align="center"><img src="/src/readme_bg.gif"></div>
-
 
 ___
 
