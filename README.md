@@ -2,8 +2,7 @@
 #### I am software developer
 ___
 ![](/src/readme_bg.gif)
-
-Currently working as a Python developer in Lugansk Home Networks
+####Currently working as a Python developer in Lugansk Home Networks
 
 ### Socials
 <a href="https://www.linkedin.com/in/dmitriy-vinokurov-249182203"><img src = "/src/linkedin_logo.gif" width = "70"></a>
