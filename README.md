@@ -1,7 +1,7 @@
 <div align="center" id="Title"> 
   <h1>Hi there, I'm Dmitriy</h1>
   <h3>Backend software developer</h3> 
-  <a href="https://www.linkedin.com/in/dmitriy-vinokurov-249182203/"><img style="width: 50px; height: 50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"></a>
+  <a href="https://www.linkedin.com/in/dmitriy-vinokurov-249182203/"><img style="width: 50px; height: 50px" src="/src/linkedin_logo.gif"></a>
   <a href="https://x.com/dmitriy2973"><img style="width: 50px; height: 50px" src="/src/twitter_logo.gif"></a>
 </div>
 
