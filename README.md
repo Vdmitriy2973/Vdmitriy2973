@@ -1,9 +1,11 @@
-### Hi there 👋,I'm Dmitriy
-#### I am software developer. I've been learning to code for 3 years.
-
+<div id="Background" align="center"><img src="/src/readme_bg.gif"></div>
 ___
 
-![](/src/readme_bg.gif)
+<div align="center">
+<h3> Hi there 👋,I'm Dmitriy</h3>
+<h4> I am software developer. I've been learning to code for 3 years.</h4>
+</div>
+___
 
 ### About me
 * 🌍  Based in Russia
@@ -37,6 +39,7 @@ ___
     </td>
   </tr>
 </table>
+
 ___
 
 ### 📊 GitHub Stats
