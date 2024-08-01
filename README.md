@@ -1,4 +1,4 @@
-<div id="Title"> <h1>Hi there, Dmitriy</h1><h2>Backend software developer</h2> </div>
+<div align="center" id="Title"> <h1>Hi there, Dmitriy</h1><h2>Backend software developer</h2> </div>
 
 <!--
 **Vdmitriy2973/Vdmitriy2973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
