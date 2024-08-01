@@ -2,15 +2,18 @@
 #### I am software developer
 ___
 ![](/src/readme_bg.gif)
+
 ### I've been learning to code for 3 years. Currently working in Lugansk Home Networks
 * 🌍  I'm based in Russia
-* 🔭  Also working as freelancer on kwork.ru
+* 🔭  Also working as a freelancer on kwork.ru
+* 
+
+### Technologies
 
 
 ### Socials
 <a href="https://www.linkedin.com/in/dmitriy-vinokurov-249182203"><img src = "/src/linkedin_logo.gif" width = "70"></a>
 <a href="https://x.com/dmitriy2973"><img src = "/src/twitter_logo.gif" width = "70"></a>
-
 
 ### 📊 GitHub Stats
 
@@ -18,13 +21,12 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vdmitriy2973)](https://github.com/anuraghazra/github-readme-stats) 
 
+### Codewars Stats
+![codewars](https://www.codewars.com/users/AKAYO%20NAKAMURA/badges/large)
 
 
 
-
-
-
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
 
