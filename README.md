@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Dmitriy
+### Hi there 👋,I'm Dmitriy
 #### I am software developer
 ___
 ![](/src/readme_bg.gif)
