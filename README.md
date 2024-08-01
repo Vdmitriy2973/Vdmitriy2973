@@ -6,7 +6,7 @@
 
 ___
 
-### About me
+### 👩‍💻 About me
 * 🌍  Based in Russia
 * 📚  Graduated with a Python programming courses
 * 👨‍💼  Currently working in Lugansk Home Networks
@@ -15,7 +15,7 @@ ___
 
 ___
 
-### My Skill Set  
+### 🛠 My Skill Set  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vdmitriy2973&show_icons=true) 
 
