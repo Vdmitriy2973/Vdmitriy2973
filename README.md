@@ -5,9 +5,12 @@ ___
 
 Currently working as a Python developer in Lugansk Home Networks
 
-
-
-
+### Socials
+<a href="https://www.linkedin.com/in/dmitriy-vinokurov-249182203"><img src = "/src/linkedin_logo.gif" width = "70"></a>
+<a href="https://x.com/dmitriy2973"><img src = "/src/twitter_logo.gif" width = "70"></a>
+<!-- ![https://www.linkedin.com/in/dmitriy-vinokurov-249182203/]( = 100x100)
+![https://x.com/dmitriy2973]( = 100x100)
+ -->
 
 
 
