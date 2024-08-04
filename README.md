@@ -9,8 +9,7 @@ ___
 ### 👩‍💻 About me
 * 🌍  Based in Russia
 * 📚  Graduated with a Python programming courses
-* 👨‍💼  Currently working in Lugansk Home Networks
-* 🔭  Also working as a freelancer on kwork.ru
+* 👨‍💼  Currently working on freelance
 * 🧠  Studying in university named after Vladimir Dahl
 
 ___
