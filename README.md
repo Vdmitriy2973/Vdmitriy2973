@@ -1,14 +1,15 @@
 <div class="background" align="center"><img src="/src/readme_bg.gif"></div>
 <div align="center">
 <h3> Hi there 👋,I'm Dmitriy</h3>
-<h4> I am software developer. I've been learning to code for 3 years.</h4>
+<h4> I'm a software developer passionate about backend development, networking, and cybersecurity.</h4>
 </div>
 
 ___
 
 ### 👩‍💻 About me
 * 🌍  Based in Russia
-* 📚  Graduated with a Python programming courses
+* 💻  Mostly coding in **Python**
+* 📡  Always looking for new challenges
 * 👨‍💼  Currently working on freelance
 * 🧠  Studying in university named after Vladimir Dahl
 
