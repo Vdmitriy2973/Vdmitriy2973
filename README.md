@@ -11,6 +11,7 @@ ___
 * 💻  Mostly coding in **Python**
 * 📡  Always looking for new challenges
 * 👨‍💼  Currently working on freelance
+* 🏆  Regular **hackathon participant**  
 
 ___
 
