@@ -11,7 +11,6 @@ ___
 * 💻  Mostly coding in **Python**
 * 📡  Always looking for new challenges
 * 👨‍💼  Currently working on freelance
-* 🧠  Studying in university named after Vladimir Dahl
 
 ___
 
