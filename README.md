@@ -8,7 +8,7 @@ ___
 
 ### 👩‍💻 About me
 * 🌍  Based in Russia
-* 💻  Mostly coding in **Python**, **SQL**, **JavaScript**
+* 💻  Mostly coding in **Python**, **JavaScript**, **SQL**
 * 📡  Always looking for new challenges
 * 👨‍💼  Currently working on freelance
 * 🏆  Regular **hackathon participant**  
