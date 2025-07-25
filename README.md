@@ -1,7 +1,7 @@
 <div class="background" align="center"><img src="/src/readme_bg.gif"></div>
 <div align="center">
 <h3> Hi there 👋,I'm Dmitriy</h3>
-<h4> I'm a software developer passionate about backend development, networking, and cybersecurity.</h4>
+<h4> I'm a software engineer passionate about backend development, networking, and cybersecurity.</h4>
 </div>
 
 ___
