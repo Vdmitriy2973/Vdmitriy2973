@@ -19,11 +19,17 @@ ___
 <div class="skill_set">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
 </div>
 
@@ -39,6 +45,15 @@ ___
   
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />  
+
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"/>
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"/>
+  <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
   <img width="12"/>
