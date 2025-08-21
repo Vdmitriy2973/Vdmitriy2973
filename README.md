@@ -22,6 +22,9 @@ ___
 
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
@@ -31,12 +34,19 @@ ___
   
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"/>
+  <img width="12" />
 </div>
 
 ___
 
 ### My Tool Set
 <div class="tool_set">
+
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12"/>
+  
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"/>
   <img width="12"/>
   
@@ -54,11 +64,17 @@ ___
 
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"/>
   <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"/>
+  <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
   <img width="12"/>
   
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img width="12"/>
 </div>
 
